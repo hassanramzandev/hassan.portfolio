@@ -130,9 +130,9 @@ a {
   height: 320px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0 0 30px #4dc4ff;
-  margin-right: 70px;
-  padding-top: 50px;
+  box-shadow: 0 0 20px #4dc4ff;
+  margin-right: 100px;
+  padding-top: 45px;
 }
 
 /* ================= ABOUT ================= */
@@ -342,6 +342,7 @@ a {
     width: 250px;
     height: 250px;
     margin-bottom: 30px;
+    box-shadow: 0 0 15px #4dc4ff ;
   }
 
   .skills-grid {
